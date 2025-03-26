@@ -1,13 +1,11 @@
-Date,Time,CPU Package [°C],CPU IA Cores [°C],CPU GT Cores (Graphics) [°C],VR VCC Temperature (SVID) [°C],CPU Package Power [W],IA Cores Power [W],System Agent Power [W],Rest-of-Chip Power [W],PL1 Power Limit (Static) [W],PL2 Power Limit (Static) [W],VR VCC Power (SVID POUT) [W],GPU Temperature [°C],GPU Hot Spot Temperature [°C],GPU Thermal Limit [°C],GPU Power [W],GPU Rail Powers (avg) [W],GPU Core (NVVDD) Input Power (sum) [W],GPU PCIe +12V Input Power [W],GPU 8-pin #1 Input Power [W],GPU Misc0 Input Power [W],GPU Core (NVVDD2) Input Power (sum) [W],GPU Input PP Source Power (sum) [W],GPU Core (NVVDD) Output Power [W],GPU Core (NVVDD) Output Power [W],GPU Core Load [%],GPU Memory Controller Load [%],GPU Video Engine Load [%],GPU Bus Load [%],GPU Memory Usage [%],GPU D3D Usages (avg) [%],GPU D3D Usage [%],GPU Video Decode 0 Usage [%],GPU Video Encode 0 Usage [%],GPU VR Usage [%]
-26.3.2025,31:56.0,39,39,38,38,11.946,5.215,5.015,0.733,202,241,16,43.5,50.7,83,14.331,5.995,7.209,3.279,11.237,6.92,6.488,8.043,1.098,3.69,5,16,0,0,9,0.2,1,0,0,0
-26.3.2025,31:57.0,39,39,38,38,9.973,3.259,4.983,0.725,202,241,16,43.5,50.7,83,14.151,6.658,6.558,3.929,12.471,8.53,5.912,10.492,1.098,4.276,16,13,0,0,8.9,0.4,1.5,0,0,0
-26.3.2025,31:58.0,39,39,38,38,12.97,6.176,5.054,0.743,202,241,24,43.5,50.7,83,14.222,5.753,8.639,2.798,10.73,5.539,7.775,5.755,1.094,3.692,0,13,0,0,8.9,0,0.1,0,0,0
-26.3.2025,31:59.0,39,39,38,38,10.117,3.376,5.007,0.732,202,241,16,43.5,50.7,83,13.971,6.653,7.061,3.776,12.532,8.282,6.355,9.959,1.093,4.161,0,29,0,0,9,0.3,1.3,0,0,0
-26.3.2025,32:00.0,39,39,38,38,11.388,4.619,5.033,0.739,202,241,24,43.5,50.7,83,14.471,5.755,8.907,2.823,10.697,5.359,8.016,5.51,1.095,3.632,0,17,0,0,9,0.1,0.2,0,0,0
-26.3.2025,32:01.0,39,39,38,38,9.218,2.528,4.965,0.721,202,241,16,43.5,50.7,83,13.819,5.623,8.732,2.738,10.431,5.19,7.855,5.32,1.093,3.627,0,30,0,0,9,0.1,0.5,0,0,0
-26.3.2025,32:02.0,39,39,38,38,9.233,2.55,4.964,0.722,202,241,16,43.5,50.7,83,13.503,5.65,8.715,2.762,10.479,5.25,7.85,5.397,1.097,3.646,0,16,0,0,9,0,0.1,0,0,0
-26.3.2025,32:03.0,39,39,38,38,12.826,6.038,5.041,0.745,202,241,16,43.5,50.7,83,13.903,5.741,8.696,2.86,10.639,5.42,7.83,5.677,1.091,3.714,0,8,0,0,9,0.1,0.4,0,0,0
-26.3.2025,32:04.0,39,39,38,38,8.705,2.043,4.947,0.716,202,241,24,43.5,50.7,83,13.659,5.624,8.623,2.762,10.416,5.249,7.757,5.428,1.112,3.646,0,14,0,0,9,0.1,0.4,0,0,0
-26.3.2025,32:05.0,39,39,38,38,8.992,2.306,4.965,0.722,202,241,24,43.5,50.7,83,14.05,6.299,7.145,3.609,11.802,7.515,6.437,8.973,1.106,3.801,9,15,0,0,8.9,0.2,0.7,0,0,0
-Date,Time,CPU Package [°C],CPU IA Cores [°C],CPU GT Cores (Graphics) [°C],VR VCC Temperature (SVID) [°C],CPU Package Power [W],IA Cores Power [W],System Agent Power [W],Rest-of-Chip Power [W],PL1 Power Limit (Static) [W],PL2 Power Limit (Static) [W],VR VCC Power (SVID POUT) [W],GPU Temperature [°C],GPU Hot Spot Temperature [°C],GPU Thermal Limit [°C],GPU Power [W],GPU Rail Powers (avg) [W],GPU Core (NVVDD) Input Power (sum) [W],GPU PCIe +12V Input Power [W],GPU 8-pin #1 Input Power [W],GPU Misc0 Input Power [W],GPU Core (NVVDD2) Input Power (sum) [W],GPU Input PP Source Power (sum) [W],GPU Core (NVVDD) Output Power [W],GPU Core (NVVDD) Output Power [W],GPU Core Load [%],GPU Memory Controller Load [%],GPU Video Engine Load [%],GPU Bus Load [%],GPU Memory Usage [%],GPU D3D Usages (avg) [%],GPU D3D Usage [%],GPU Video Decode 0 Usage [%],GPU Video Encode 0 Usage [%],GPU VR Usage [%]
-,,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,CPU [#0]: Intel Core i5-12400: Enhanced,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060,GPU [#0]: NVIDIA GeForce RTX 3060
+Time,CPU Package Power [W],Start,End
+31:56.0,11.946,,
+31:57.0,9.973,,
+31:58.0,12.97,y,
+31:59.0,10.117,,
+32:00.0,11.388,,
+32:01.0,9.218,,
+32:02.0,9.233,,
+,,,
+,,,
+,,,
